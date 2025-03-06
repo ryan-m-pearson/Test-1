@@ -4,6 +4,6 @@ Note that this toothbrush is totally safe to use for children, adults, pets, and
 
 Adding an extra line of text. 
 
-And a final line of text. 
+This is the final line. No more lines. 
 
 The toothbrush requires [need info here].
